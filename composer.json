@@ -1,0 +1,36 @@
+{
+    "name": "novadaemon/laravel-csv-translations",
+    "description": "Import Laravel translations strings from csv files",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "localization",
+        "csv",
+        "translation",
+        "language"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Novadaemon\\LaravelCsvTranslations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesús García",
+            "email": "novadaemon@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/console": "^11.0@dev"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Novadaemon\\LaravelCsvTranslations\\LaravelCsvTranslationsProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
