@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "illuminate/console": "^11.0@dev"
+        "illuminate/console": "^10.25"
     },
     "extra": {
         "laravel": {
@@ -31,6 +31,6 @@
             ]
         }
     },
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
