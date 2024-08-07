@@ -2,6 +2,8 @@
 
 This Laravel package provide a command that allow to generate your lang files from csv files.
 
+![Cover](https://banners.beyondco.de/Laravel%20CSV%20Translations.png?theme=light&packageManager=composer+require&packageName=novadaemon%2Flaravel-csv-translations&pattern=circuitBoard&style=style_1&description=Generate+your+lang+files+from+csv&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
+
 ## Instalation
 
 You can install the package via composer:
